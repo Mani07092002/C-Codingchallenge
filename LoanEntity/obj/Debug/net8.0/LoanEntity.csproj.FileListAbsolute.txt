@@ -1,0 +1,12 @@
+C:\Users\ACER\source\repos\LoanEntity\bin\Debug\net8.0\LoanEntity.deps.json
+C:\Users\ACER\source\repos\LoanEntity\bin\Debug\net8.0\LoanEntity.dll
+C:\Users\ACER\source\repos\LoanEntity\bin\Debug\net8.0\LoanEntity.pdb
+C:\Users\ACER\source\repos\LoanEntity\obj\Debug\net8.0\LoanEntity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\source\repos\LoanEntity\obj\Debug\net8.0\LoanEntity.AssemblyInfoInputs.cache
+C:\Users\ACER\source\repos\LoanEntity\obj\Debug\net8.0\LoanEntity.AssemblyInfo.cs
+C:\Users\ACER\source\repos\LoanEntity\obj\Debug\net8.0\LoanEntity.csproj.CoreCompileInputs.cache
+C:\Users\ACER\source\repos\LoanEntity\obj\Debug\net8.0\LoanEntity.dll
+C:\Users\ACER\source\repos\LoanEntity\obj\Debug\net8.0\refint\LoanEntity.dll
+C:\Users\ACER\source\repos\LoanEntity\obj\Debug\net8.0\LoanEntity.pdb
+C:\Users\ACER\source\repos\LoanEntity\obj\Debug\net8.0\ref\LoanEntity.dll
+C:\Users\ACER\source\repos\LoanEntity\obj\Debug\net8.0\LoanEntity.csproj.AssemblyReference.cache
