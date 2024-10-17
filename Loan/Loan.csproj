@@ -1,0 +1,29 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="System.Data.SqlClient" Version="4.8.6" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Reference Include="LoanDao">
+      <HintPath>..\LoanDao\bin\Debug\net8.0\LoanDao.dll</HintPath>
+    </Reference>
+    <Reference Include="LoanEntity">
+      <HintPath>..\LoanEntity\bin\Debug\net8.0\LoanEntity.dll</HintPath>
+    </Reference>
+    <Reference Include="LoanException">
+      <HintPath>..\LoanException\bin\Debug\net8.0\LoanException.dll</HintPath>
+    </Reference>
+    <Reference Include="Loanutil">
+      <HintPath>..\Loanutil\bin\Debug\net8.0\Loanutil.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>
