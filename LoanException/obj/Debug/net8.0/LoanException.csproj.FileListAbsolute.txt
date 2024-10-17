@@ -1,0 +1,12 @@
+C:\Users\ACER\source\repos\LoanException\bin\Debug\net8.0\LoanException.deps.json
+C:\Users\ACER\source\repos\LoanException\bin\Debug\net8.0\LoanException.dll
+C:\Users\ACER\source\repos\LoanException\bin\Debug\net8.0\LoanException.pdb
+C:\Users\ACER\source\repos\LoanException\obj\Debug\net8.0\LoanException.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\source\repos\LoanException\obj\Debug\net8.0\LoanException.AssemblyInfoInputs.cache
+C:\Users\ACER\source\repos\LoanException\obj\Debug\net8.0\LoanException.AssemblyInfo.cs
+C:\Users\ACER\source\repos\LoanException\obj\Debug\net8.0\LoanException.csproj.CoreCompileInputs.cache
+C:\Users\ACER\source\repos\LoanException\obj\Debug\net8.0\LoanException.dll
+C:\Users\ACER\source\repos\LoanException\obj\Debug\net8.0\refint\LoanException.dll
+C:\Users\ACER\source\repos\LoanException\obj\Debug\net8.0\LoanException.pdb
+C:\Users\ACER\source\repos\LoanException\obj\Debug\net8.0\ref\LoanException.dll
+C:\Users\ACER\source\repos\LoanException\obj\Debug\net8.0\LoanException.csproj.AssemblyReference.cache
